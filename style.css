@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    padding-top: 800px;
+    margin:0;
+    background-color: aqua;
+}
+#Hello1{
+    margin-top: 200px;
+    width:400px;
+    margin-bottom: 50px;
+    
+
+}
+#welcome{
+    position: absolute;
+    height: 800px;
+    left:0;
+    right:0;
+    bottom:0;
+    top:0;
+    background:linear-gradient(#0cf5c2 0%, #23f50c 100%)
+}
+#n1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    
+}
+.menu{
+    font-family:sans-serif;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    top: 0px;
+    margin-top: 0px;
+    background-color: white;
+    width:100%;
+    
+}
+.links{
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 12x;
+    padding-top: 5px;
+    font-family: fantasy;
+    font-size: 25px;
+    color: red;
+    display: inline;
+}
+.links:hover{
+    background-color: dodgerblue;
+    font-size: 30px;
+}
+#Videos{
+   background-color: aqua
+}
+#aboutme{
+   background-color:aquamarine
+}
+#inventions{
+   background-color: aqua
+}
+#interview{
+   background-color:aquamarine
+}
+.contact h3{
+    display: inline;
+}
+ 
+
+
+
+
+
+
+
+ 
